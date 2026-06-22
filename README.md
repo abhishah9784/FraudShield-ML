@@ -103,6 +103,10 @@ Feature Importance Analysis
 
 ![Transaction Amount Distribution](images/Transaction_Amount_Distribution.png)
 
+### Feature Importance Analysis
+
+![Feature Importance](images/feature_importance.png)
+
 ### Model Comparison
 
 ![Model Comparison](images/model_comparison.png)
